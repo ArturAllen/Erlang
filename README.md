@@ -6,6 +6,6 @@
 
 2. Type `erl` to start the Erlang shell
 
-3. Type `c(FILENAME)` to compile the file
+3. Type `c(FILENAME).` to compile the file
 
 4. Type `FUNCTIONNAME(PARAMETERS).` to call a function defined in FILENAME
